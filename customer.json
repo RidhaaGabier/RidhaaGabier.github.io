@@ -1,0 +1,160 @@
+{
+  "skills": [
+          {
+  "course": "HTML 75%"
+  "course": "CSS 69%"
+  "course": "Bootstrap 66%"
+  "course": "HTML 95%"
+  "course": "GIT 50%"
+  "course": "JavaScript 72%"
+  "course": "VueJS 70%"
+          }
+  ],
+  "education": [
+     {
+ "name": "Life Choices Academy",
+ "year": "2023",
+  "desc": "Software Developer."
+     },
+       {
+ "name": "Banking Course.",
+ "year": "2021-2022",
+  "desc": "NQF Level 4"
+     },
+       {
+ "name": "Work Experience",
+ "year": "2020",
+  "desc": "Filing,Post,Data Capturing,Liaising with Clients."
+     },
+        {
+ "name": "YouTube",
+ "year": "2019",
+  "desc": "Streamed online gaming on YouTube,Twitch and Tiktok."
+     },
+       {
+ "name": "Life Choices Academy",
+ "year": "2019",
+  "desc": "Grade 12 Certificate."
+     },
+  ],
+  "testimonials": [
+        {
+   "image_url": "https://i.postimg.cc/qRd2R3Sw/C12-Ayesha-Galant-Class1-1.jpg",
+   "title": "Ayesha Galant",
+    "desc": "   Ridhaa Gabier is an exceptional individual who embodies both kindness and hard work. He consistently
+                  go above and beyond in his tasks with attention to detail and dedication. His genuine care for
+                  others makes them a joyful to work with and be around. I highly recommend Ridhaa for any endeavor he
+                  pursue.",
+        },
+            {
+   "image_url": "https://i.postimg.cc/qRd2R3Sw/C12-Ayesha-Galant-Class1-1.jpg",
+   "title": "Ayesha Galant",
+    "desc": "     Ridhaa is a very hardworking and dedicated person. He doesn't give up as easy as everyone else. Every
+                  goal that he has set for himself, he has achieved. His not stopping till he reaches the top. He is a
+                  motivation to everyone around him, and his personality makes others not give up and and reach their
+                  full potential.",
+        },
+
+
+            {
+   "image_url": "https://i.postimg.cc/qRd2R3Sw/C12-Ayesha-Galant-Class1-1.jpg",
+   "title": "Ayesha Galant",
+    "desc": "   Ridhaa Gabier is an exceptional individual who embodies both kindness and hard work. He consistently
+                  go above and beyond in his tasks with attention to detail and dedication. His genuine care for
+                  others makes them a joyful to work with and be around. I highly recommend Ridhaa for any endeavor he
+                  pursue.",
+        },
+
+
+             {
+   "image_url": "https://i.postimg.cc/qRd2R3Sw/C12-Ayesha-Galant-Class1-1.jpg",
+   "title": "Ayesha Galant",
+    "desc": "   Ridhaa is very kind and considerate towards others. When it comes to  his work, he is incredibly hard-working, focused and determined, and more so when there are issues. I
+                enjoy working with him. He definitely has a lot of potential and I would highly recommend him.",
+        },
+
+
+
+            {
+   "image_url": "https://i.postimg.cc/qRd2R3Sw/C12-Ayesha-Galant-Class1-1.jpg",
+   "title": "Ayesha Galant",
+    "desc": "   Ridhaa Gabier is an exceptional individual who embodies both kindness and hard work. He consistently
+                  go above and beyond in his tasks with attention to detail and dedication. His genuine care for
+                  others makes them a joyful to work with and be around. I highly recommend Ridhaa for any endeavor he
+                  pursue.",
+        },
+
+
+              {
+   "image_url": "https://i.postimg.cc/qRd2R3Sw/C12-Ayesha-Galant-Class1-1.jpg",
+   "title": "Ayesha Galant",
+    "desc": "  Ridhaa is dedicated and very passionate about his work. Working together
+               makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so.",
+        }
+  ],
+   "projects": [
+         {
+            "title": "Web application",
+            "desc": "JavaScript basics",
+            "id": "1",
+            "image_url": "https://picsum.photos/400?random=1",
+          
+        },
+
+               {
+            "title": "Web application",
+            "desc": "JavaScript basics",
+            "id": "2",
+            "image_url": "https://picsum.photos/400?random=1",
+          
+        },
+
+
+             {
+            "title": "Web application",
+            "desc": "JavaScript basics",
+            "id": "3",
+            "image_url": "https://picsum.photos/400?random=1",
+          
+        },
+
+
+                {
+            "title": "Web application",
+            "desc": "JavaScript basics",
+            "id": "1",
+            "image_url": "https://picsum.photos/400?random=1",
+          
+        },
+
+
+                 {
+            "title": "Web application",
+            "desc": "JavaScript basics",
+            "id": "4",
+            "image_url": "https://picsum.photos/400?random=1",
+          
+        },
+
+
+
+                 {
+            "title": "Web application",
+            "desc": "JavaScript basics",
+            "id": "5,
+            "image_url": "https://picsum.photos/400?random=1",
+          
+        },
+
+
+                {
+            "title": "Web application",
+            "desc": "JavaScript basics",
+            "id":"6",
+            "image_url": "https://picsum.photos/400?random=1",
+          
+        },
+
+   ],
+
+}
