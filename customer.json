@@ -59,7 +59,7 @@
       "desc": "Streamed online gaming on YouTube,Twitch and Tiktok."
     },
     {"id": "5",
-      "name": "Life Choices Academy",
+      "name": "Belhar High School",
       "year": "2019",
       "desc": "Grade 12 Certificate."
     }
@@ -104,7 +104,7 @@
     {
         "id": "1",
       "title": "Pokemon Website",
-      "desc": "JavaScript basics",
+      "desc": "HTML,CSS basics",
       "image_url": "https://i.postimg.cc/Qxp1MKPV/Screenshot-2023-05-11-110656.png",
        "github": "https://github.com/RidhaaGabier/Pokemon.git",
       "live": "https://admirable-sawine-8278cd.netlify.app/"
@@ -113,7 +113,7 @@
 
     {"id": "2",
       "title": "Portfolio",
-      "desc": "Used HTML,CSS",
+      "desc": "HTML,CSS",
       "image_url": "https://i.postimg.cc/QCVDy7Tm/Screenshot-2023-05-11-110532.png",
        "github": "https://github.com/RidhaaGabier/Ridhaa-Portfolio",
       "live": "https://eloquent-cobbler-9f3b06.netlify.app/"
@@ -122,7 +122,7 @@
     {
         "id": "3",
       "title": "Porfolio 2",
-      "desc": "Used HTML,CSS",
+      "desc": "HML,CSS",
       "image_url": "https://i.postimg.cc/XvkqZmst/Portfolio2.png",
        "github": "https://github.com/RidhaaGabier/Ridhaa-New-Portfolio.git",
       "live": "https://deft-fudge-89787f.netlify.app/ "
@@ -130,7 +130,7 @@
 
     {"id": "4",
       "title": "Ecommerce Website",
-      "desc": "Used JavaScript,HTML,CSS,Bootstrap",
+      "desc": "JavaScript,HTML,CSS,Bootstrap",
       "image_url": "https://i.postimg.cc/qMNNmm7C/Ecommerce.png",
        "github": "https://github.com/RidhaaGabier/EOMP-Javascript.git",
       "live": "https://jade-pastelito-20bf8c.netlify.app/"
@@ -138,18 +138,18 @@
 
     {"id": "5",
       "title": "To-Do-List",
-      "desc": "Used HTML,CSS,JavaScript",
+      "desc": "HTML,CSS,JavaScript",
       "image_url": "https://i.postimg.cc/ZRMSCzdb/To-do-list.png",
        "github": "https://github.com/RidhaaGabier/task-list.git",
       "live": "https://elaborate-donut-374f94.netlify.app/"
     },
 
     {"id": "6",
-      "title": "Side Task",
-      "desc": "Practice CSS,HTML",
+      "title": "BMI-Calculator",
+      "desc": "JavaScript,HTML,CSS,Bootstrap",
       "image_url": "https://i.postimg.cc/qM11GCLw/Desktop-Screenshot-2023-05-13-13-59-18-11-2.png",
-       "github": "https://github.com/RidhaaGabier/Button-Practice.git",
-      "live": "https://friendly-gumption-20f537.netlify.app/"
+       "github": "https://i.postimg.cc/Ghzfs0wW/Desktop-Screenshot-2023-07-06-20-31-59-05-2.png",
+      "live": "https://lively-mousse-3b84fc.netlify.app/"
     },
     {"id": "7",
     "title": "Calculator Project",
