@@ -2,31 +2,31 @@
   "skills": [
     { "id": "1",
       "course": "HTML",
-      "percent": "75%"
+      "percent": "75"
     },
     {   "id": "2",
         "course": "CSS",
-        "percent": "75%"
+        "percent": "75"
       },
       {
         "id": "3",
         "course": "Bootstrap",
-        "percent": "75%"
+        "percent": "75"
       },
       {
         "id": "4",
         "course": "GIT",
-        "percent": "50%"
+        "percent": "50"
       },
       {
         "id": "5",
         "course": "JavaScript",
-        "percent": "75%"
+        "percent": "75"
       },
       {
         "id": "6",
         "course": "VueJS",
-        "percent": "75%"
+        "percent": "75"
       }
 
   ],
