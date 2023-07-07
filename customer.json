@@ -153,14 +153,14 @@
     },
     {"id": "7",
     "title": "Calculator Project",
-    "desc": "Used HTML,CSS,Bootstrap,JavaScript",
+    "desc": "HTML,CSS,Bootstrap,JavaScript",
     "image_url": "https://i.postimg.cc/1t9xW5p5/Calculator.png",
        "github": "https://github.com/RidhaaGabier/calculator-js-project.git",
       "live": "https://calculator-js-project-1.netlify.app/"
   },
       {"id": "8",
     "title": "Temperature Convertor",
-    "desc": "Used HTML,CSS,Bootstrap,JavaScript",
+    "desc": "HTML,CSS,Bootstrap,JavaScript",
     "image_url": "https://i.postimg.cc/jddRvvsY/Temperature-Convertor.png",
        "github": "https://github.com/RidhaaGabier/Temperature-converter.git",
       "live": "https://shiny-malabi-683c5f.netlify.app/"
