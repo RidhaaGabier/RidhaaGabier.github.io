@@ -33,32 +33,50 @@
         "course": "VueJS",
         "percent": "75",
         "color": "success"
+      },
+      {
+        "id": "6",
+        "course": "MySQL",
+        "percent": "80",
+        "color": ""
+      },
+      {
+        "id": "6",
+        "course": "Node.js",
+        "percent": "85",
+        "color": "darkgreen"
       }
 
   ],
   "education": [
     {
       "id": "1",
+      "name": "Life Choices Studio",
+      "year": "2023",
+      "desc": "AWS Cloud Internship"
+    },
+    {
+      "id": "2",
       "name": "Life Choices Academy",
       "year": "2023",
       "desc": "Software Developer."
     },
-    {"id": "2",
+    {"id": "3",
       "name": "Banking Course.",
       "year": "2021-2022",
       "desc": "NQF Level 4"
     },
-    {"id": "3",
+    {"id": "4",
       "name": "Work Experience",
       "year": "2020",
       "desc": "Filing,Post,Data Capturing,Liaising with Clients."
     },
-    {"id": "4",
+    {"id": "5",
       "name": "YouTube",
       "year": "2019",
       "desc": "Streamed online gaming on YouTube,Twitch and Tiktok."
     },
-    {"id": "5",
+    {"id": "6",
       "name": "Belhar High School",
       "year": "2019",
       "desc": "Grade 12 Certificate."
@@ -71,15 +89,15 @@
       "desc": "   Ridhaa Gabier is an exceptional individual who embodies both kindness and hard work. He consistently go above and beyond in his tasks with attention to detail and dedication. His genuine care for others makes them a joyful to work with and be around. I highly recommend Ridhaa for any endeavor he pursue."
     },
     {"id": "2",
-      "image_url": "https://i.postimg.cc/FHHhsDds/IMG-2409-3.jpg",
-      "title": "Zulaigah Benjamin",
-      "desc": " Ridhaa is a very hardworking and dedicated person. He doesn't give up as easy as everyone else. Every goal that he has set for himself, he has achieved. His not stopping till he reaches the top. He is a motivation to everyone around him, and his personality makes others not give up and and reach their full potential."
+      "image_url": "https://i.postimg.cc/xdf6c9cf/1000016549.jpg",
+      "title": "Imtiyaaz Damon",
+      "desc": "Ridhaa is a friendly and understanding individual who approaches tasks with a thorough understanding. He excels in web design, ensuring that his work is of the highest quality possible. Ridhaa's commitment to comprehending and delivering excellence makes him a valuable asset in his field."
     },
 
     {"id": "3",
       "image_url": "https://i.postimg.cc/3JBDcfQK/C12-Abdoelmaaliek-Samaai-1.jpg",
       "title": "Abdoel Samaai",
-      "desc": "   Ridhaa Gabier is an exceptional individual who embodies both kindness and hard work. He consistently go above and beyond in his tasks with attention to detail and dedication. His genuine care for others makes them a joyful to work with and be around. I highly recommend Ridhaa for any endeavor he pursue."
+      "desc": " Ridhaa is a very hardworking and dedicated person. He doesn't give up as easy as everyone else. Every goal that he has set for himself, he has achieved. His not stopping till he reaches the top. He is a motivation to everyone around him, and his personality makes others not give up and and reach their full potential."
     },
 
     {"id": "4",
@@ -91,7 +109,7 @@
     {"id": "5",
       "image_url": "https://i.postimg.cc/Gm9ncxSW/DSC-3569.jpg",
       "title": "John-Bruce Noad",
-      "desc": "   Ridhaa Gabier is an exceptional individual who embodies both kindness and hard work. He consistently go above and beyond in his tasks with attention to detail and dedication. His genuine care for others makes them a joyful to work with and be around. I highly recommend Ridhaa for any endeavor he pursue"
+      "desc": "Ridhaa is an exemplary software developer, seamlessly blending hard work, teamwork, and a sharp focus on delivering excellence. His expertise in frontend development, timely deliveries, and comprehensive understanding make him an invaluable asset to any project. Highly recommended."
     },
 
     {"id": "6",
@@ -101,14 +119,14 @@
     }
   ],
   "projects": [
+
     {
-        "id": "1",
-      "title": "Pokemon Website",
-      "desc": "HTML, CSS Project",
-      "image_url": "https://i.postimg.cc/Qxp1MKPV/Screenshot-2023-05-11-110656.png",
-       "github": "https://github.com/RidhaaGabier/Pokemon.git",
-      "live": "https://admirable-sawine-8278cd.netlify.app/"
-      
+      "id": "1",
+      "title": "Capstone Project",
+      "desc": "Noad.js , Vue.js, Javascript",
+      "image_url": "https://i.postimg.cc/9MCPxh64/New.png",
+       "github": "https://github.com/RidhaaGabier/capstone",
+      "live": "https://capstone-d1f15.firebaseapp.com/"
     },
 
     {"id": "2",
@@ -136,7 +154,17 @@
       "live": "https://jade-pastelito-20bf8c.netlify.app/"
     },
 
-    {"id": "5",
+    {
+      "id": "5",
+      "title": "Pokemon Website",
+      "desc": "HTML, CSS Project",
+      "image_url": "https://i.postimg.cc/Qxp1MKPV/Screenshot-2023-05-11-110656.png",
+       "github": "https://github.com/RidhaaGabier/Pokemon.git",
+      "live": "https://admirable-sawine-8278cd.netlify.app/"
+    },
+
+    {
+      "id": "6",
       "title": "To-Do-List",
       "desc": "JavaScript Project",
       "image_url": "https://i.postimg.cc/ZRMSCzdb/To-do-list.png",
@@ -144,13 +172,6 @@
       "live": "https://elaborate-donut-374f94.netlify.app/"
     },
 
-    {"id": "6",
-      "title": "BMI-Calculator",
-      "desc": "JavaScript Project",
-      "image_url": "https://i.postimg.cc/qM11GCLw/Desktop-Screenshot-2023-05-13-13-59-18-11-2.png",
-       "github": "https://i.postimg.cc/Ghzfs0wW/Desktop-Screenshot-2023-07-06-20-31-59-05-2.png",
-      "live": "https://lively-mousse-3b84fc.netlify.app/"
-    },
     {"id": "7",
     "title": "Calculator Project",
     "desc": "JavaScript Project",
@@ -158,12 +179,13 @@
        "github": "https://github.com/RidhaaGabier/calculator-js-project.git",
       "live": "https://calculator-js-project-1.netlify.app/"
   },
+
       {"id": "8",
-    "title": "Temperature Convertor",
-    "desc": "JavaScript Project",
-    "image_url": "https://i.postimg.cc/jddRvvsY/Temperature-Convertor.png",
-       "github": "https://github.com/RidhaaGabier/Temperature-converter.git",
-      "live": "https://shiny-malabi-683c5f.netlify.app/"
+    "title": "Ecommerce Website",
+    "desc": "JavaScript, MySQL,Vue.js",
+    "image_url": "https://i.postimg.cc/9XJn68FR/Screenshot-2023-11-13-150144.png",
+       "github": "https://github.com/zulaigahbenjamin/BellaVisage",
+      "live": "https://bella2-58227.web.app/"
   }
 
   ]
