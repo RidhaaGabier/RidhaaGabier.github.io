@@ -101,8 +101,8 @@
     },
 
     {"id": "4",
-      "image_url": "https://i.ibb.co/XL7Mf57/jamie.jpg",
-      "title": "Jamie-Lee Kinnear",
+      "image_url": "https://i.ibb.co/7vs02yJ/image.png",
+      "title": "Waydin Jochem",
       "desc": "Ridhaa is very kind and considerate towards others. When it comes to  his work, he is incredibly hard-working, focused and determined, and more so when there are issues. I enjoy working with him. He definitely has a lot of potential and I would highly recommend him."
     },
 
@@ -124,7 +124,7 @@
       "id": "1",
       "title": "Capstone Project",
       "desc": "Noad.js , Vue.js, Javascript",
-      "image_url": "https://i.postimg.cc/9MCPxh64/New.png",
+      "image_url": "https://i.ibb.co/m4YM4rq/New.png",
        "github": "https://github.com/RidhaaGabier/capstone",
       "live": "https://capstone-d1f15.firebaseapp.com/"
     },
@@ -132,7 +132,7 @@
     {"id": "2",
       "title": "Portfolio",
       "desc": "Portfolio Project",
-      "image_url": "https://i.postimg.cc/QCVDy7Tm/Screenshot-2023-05-11-110532.png",
+      "image_url": "https://i.ibb.co/KzyT6b9/Screenshot-2024-02-07-121903.png",
        "github": "https://github.com/RidhaaGabier/Ridhaa-Portfolio",
       "live": "https://eloquent-cobbler-9f3b06.netlify.app/"
     },
@@ -141,7 +141,7 @@
         "id": "3",
       "title": "Porfolio 2",
       "desc": "Portfolio Assignment",
-      "image_url": "https://i.postimg.cc/XvkqZmst/Portfolio2.png",
+      "image_url": "https://i.ibb.co/Lzk0Tqv/Screenshot-2024-02-07-122544.png",
        "github": "https://github.com/RidhaaGabier/Ridhaa-New-Portfolio.git",
       "live": "https://deft-fudge-89787f.netlify.app/ "
     },
@@ -149,7 +149,7 @@
     {"id": "4",
       "title": "Ecommerce Website",
       "desc": "JavaScriptp Assignment",
-      "image_url": "https://i.postimg.cc/qMNNmm7C/Ecommerce.png",
+      "image_url": "https://i.ibb.co/6yrSp0g/Screenshot-2024-02-07-122214.png",
        "github": "https://github.com/RidhaaGabier/EOMP-Javascript.git",
       "live": "https://jade-pastelito-20bf8c.netlify.app/"
     },
@@ -158,7 +158,7 @@
       "id": "5",
       "title": "Pokemon Website",
       "desc": "HTML, CSS Project",
-      "image_url": "https://i.postimg.cc/Qxp1MKPV/Screenshot-2023-05-11-110656.png",
+      "image_url": "https://i.ibb.co/1sQBVh0/pokemon-web.jpg",
        "github": "https://github.com/RidhaaGabier/Pokemon.git",
       "live": "https://admirable-sawine-8278cd.netlify.app/"
     },
@@ -167,7 +167,7 @@
       "id": "6",
       "title": "To-Do-List",
       "desc": "JavaScript Project",
-      "image_url": "https://i.postimg.cc/ZRMSCzdb/To-do-list.png",
+      "image_url": "https://i.ibb.co/P9r82TK/to-do-list.jpg",
        "github": "https://github.com/RidhaaGabier/task-list.git",
       "live": "https://elaborate-donut-374f94.netlify.app/"
     },
@@ -175,7 +175,7 @@
     {"id": "7",
     "title": "Calculator Project",
     "desc": "JavaScript Project",
-    "image_url": "https://i.postimg.cc/1t9xW5p5/Calculator.png",
+    "image_url": "https://i.ibb.co/1XNnPGw/calculator.png",
        "github": "https://github.com/RidhaaGabier/calculator-js-project.git",
       "live": "https://calculator-js-project-1.netlify.app/"
   },
@@ -183,7 +183,7 @@
       {"id": "8",
     "title": "Ecommerce Website",
     "desc": "JavaScript, MySQL,Vue.js",
-    "image_url": "https://i.postimg.cc/9XJn68FR/Screenshot-2023-11-13-150144.png",
+    "image_url": "https://i.ibb.co/NFG62F0/Screenshot-2024-02-07-120719.png",
        "github": "https://github.com/zulaigahbenjamin/BellaVisage",
       "live": "https://bella2-58227.web.app/"
   }
